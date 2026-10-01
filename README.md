@@ -85,7 +85,7 @@ This is the signature of a leading indicator, not just a correlated signal.
 ## Quick Start
 
 ```bash
-git clone https://github.com/MuhammadTalha121/missing_pipeline
+git clone https://github.com/MuhammadTalha121/NGO_Missing_Pipeline
 cd missing_pipeline
 pip install -r requirements.txt
 jupyter notebook missing_pipeline_v2.ipynb
